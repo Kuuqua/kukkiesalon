@@ -1,7 +1,7 @@
 # Kukkie's Salon Website
 
 ## Demo
-You can view a live demo of the website at [https://www.kukkiesalon.com](https://www.kukkiesalon.com).
+You can view a live demo of the website at [https://kukkie-salon.onrender.com/](https://kukkie-salon.onrender.com/).
 
 ## Features
 - **Responsive Design**
